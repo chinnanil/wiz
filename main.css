@@ -554,7 +554,7 @@ video {
 	transform: translate(-50%, -50%);
 }
 .intro-logotype-out {
-	transform: translate(-250vw, -50%) scaleX(1.3);
+	transform: translate(-50vw, -50%) scaleX(1.3);
 }
 .www-anime {
 	position: relative;
@@ -614,7 +614,7 @@ video {
 	transform: translate(34em, -0.3em) scaleX(3);
 	}
 	.intro-logotype-out {
-    transform: translate(-185vw, -50%) scaleX(1.3);
+    transform: translate(-225vw, -50%) scaleX(1.3);
 	}
 	//.intro-small-text-in {
 		transform: translate(13.3em, -0.3em);
